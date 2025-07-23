@@ -1,39 +1,39 @@
-# Tourist Site – Interface de Landing Page para Turismo
+*// Tourist Site – Interface de Landing Page para Turismo
 
-Este é um projeto de interface moderna e elegante para sites de turismo e viagens. Desenvolvido no Figma, o layout apresenta uma estrutura limpa, seção de destaque visual, categorias de destinos e foco na experiência do usuário. Ideal para agências de viagens, startups do setor ou campanhas promocionais.
+Este é um layout moderno e direto ao ponto para sites de turismo e viagens. Criado no Figma com foco em visual limpo, navegação intuitiva e destaque para destinos incríveis. Serve muito bem para agências, pequenos negócios ou projetos pessoais que querem causar boa impressão.
 
-## Características
+*// O que você encontra aqui
 
-- Layout limpo e minimalista
-- Componentes totalmente editáveis
+- Layout clean, bonito e funcional
+- Componentes prontos pra editar (sem complicação)
 - Estrutura responsiva com auto layout
-- Tipografia e imagens envolventes
-- Foco em conversão para turismo
+- Tipografia bem escolhida e imagens de impacto
+- Ideal pra atrair visitantes e fechar mais viagens
 
-## Desenvolvido com
+*// Ferramentas Utilizadas
 
 - Figma (arquivo da comunidade)
-- Auto layout para facilitar ajustes responsivos
-- Fonte Google (Inter)
+- Auto layout para ajustes rápidos
+- Google Fonts (Inter)
 
-## Informações do Arquivo
+*// Informações do Arquivo
 
 - Formato: `.fig` (Figma)
-- Conteúdo: Layout de landing page
-- Licença: Gratuito para duplicar e personalizar
+- Conteúdo: Página inicial de um site de turismo
+- Licença: Pode duplicar, editar e usar à vontade
 
-## Como Usar
+*// Como Usar
 
-1. Abra o arquivo no [Figma](https://www.figma.com)
-2. Clique em **Duplicar** para copiar para sua conta
-3. Edite cores, textos e imagens conforme necessário
+1. Acesse o projeto no [Figma](https://www.figma.com)
+2. Clique em **Duplicar** para copiar pra sua conta
+3. Personalize como quiser: texto, imagem, cores e tudo mais
 
-## Objetivo
+*// Por que esse projeto existe?
 
-Este projeto foi criado para facilitar a apresentação de destinos turísticos de forma clara, atraente e eficaz, focando em transformar visitantes em clientes.
+Porque um site bonito faz diferença. E porque criar do zero dá trabalho. Esse layout economiza tempo e já vem com uma boa base pra você começar.
 
-## Licença
+*// Licença
 
-Uso livre para projetos pessoais e comerciais. Atribuição é bem-vinda, mas não obrigatória.
+Uso livre para projetos pessoais ou comerciais. Crédito é legal, mas não obrigatório.
 
-Desenvolvido por [Seu Nome]
+Criado por [Seu Nome]
